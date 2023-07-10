@@ -1,0 +1,10 @@
+Script to dock multiple ligand into one receptor. THE RECEPTOR AND LIGAND MUST ALREADY BE CORRECTLY PROTONATED!
+The protocol:
+	* Flexible docking. Flexible side chains can be specified.
+	* AD4 scoring function.
+	* Exhaustiveness, num_modes and energy_range can be tuned.
+	
+It needs:
+	* Receptor PDB file.
+	* Ligand SDF files.
+	* List of ligand names.

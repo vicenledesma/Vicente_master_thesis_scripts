@@ -1,0 +1,3 @@
+TCL scripts to calculate the RMSD of the protein (backbone) and the ligand. Run with:
+	* vmd -e simulation_analyses/lRMSD/rmsd_prot.tcl
+	* vmd -e simulation_analyses/lRMSD/rmsd_lig.tcl
