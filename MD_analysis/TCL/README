@@ -1,3 +1,5 @@
-TCL scripts to calculate the RMSD of the protein (backbone) and the ligand. Run with:
+TCL scripts to calculate the RMSD of the protein (backbone) and the ligand.
+Notice that the receptor RMSD is for the full receptor, not only for the
+transmembrane regions. Run with:
 	* vmd -e simulation_analyses/lRMSD/rmsd_prot.tcl
 	* vmd -e simulation_analyses/lRMSD/rmsd_lig.tcl

@@ -1,4 +1,5 @@
 ### CALCULATE PROTEIN (BACKBONE) RMSD ###
+## Full receptor, not only transmembrane regions
 ## Topology file: structure.psf
 ## Trajectory file: output_wrapped.xtc
 
